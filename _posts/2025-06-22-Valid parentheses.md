@@ -1,6 +1,6 @@
 ---
 title: " Valid parentheses "
-date: 2023-06-03 00:00:00 +0000
+date: 2025-06-22 00:00:00 +0000
 categories: [leetcode problems]
 tags: [algorithmes]
 ---
